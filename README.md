@@ -1,8 +1,8 @@
 # Alexandros Ch. - Full Stack Developer
 
 Welcome to my GitHub profile! 
-I’m Alexander, a learning Full Stack Developer focused on building user-friendly, modern, and performant applications. 
-With a background in telecommunications and technology, I enjoy creating robust web applications from frontend to backend.
+I’m Alexander, a Full Stack Developer in learning,
+keeping things simple! 
 
 🌐 **[Visit My Portfolio](https://ac-webdev.netlify.app/)**
 
